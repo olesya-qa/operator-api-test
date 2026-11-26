@@ -1,0 +1,7 @@
+pytest==7.4.3
+pytest-check==2.4.1
+requests==2.32.4
+python-dotenv==1.0.0
+pydantic>=2.7,<3
+email-validator>=2,<3
+psycopg[binary]>=3.2,<4
